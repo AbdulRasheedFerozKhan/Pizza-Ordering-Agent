@@ -2,6 +2,12 @@
 
 # Pizza API (Azure Functions)
 
+[![Open project in GitHub Codespaces](https://img.shields.io/badge/Codespaces-Open-blue?style=flat-square&logo=github)](https://codespaces.new/Azure-Samples/pizza-mcp-agents?hide_repo_select=true&ref=main&quickstart=true)
+![Node version](https://img.shields.io/badge/Node.js->=22-3c873a?style=flat-square)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
+[Overview](#overview) • [API Endpoints](#api-endpoints) • [Development](#development)
+
 </div>
 
 ## Overview
